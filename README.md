@@ -1,15 +1,4 @@
 
----
-tags: [spring-boot, groovy, test]
-projects: [spring-boot]
----
-:spring_boot_version: 1.5.9.RELEASE
-:spring-boot: https://github.com/spring-projects/spring-boot
-:toc:
-:icons: font
-:source-highlighter: prettify
-:project_id: spring-boot-getting-started-hello
-
 # spring-boot-getting-started-hello
 spring boot getting started hello plus
 
